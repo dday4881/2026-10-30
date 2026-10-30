@@ -1,0 +1,2 @@
+name,width,dropout,best_epoch,best_valid_loss,last_train_loss_eval,last_valid_loss,iterations_per_epoch,total_steps,elapsed_seconds
+baseline,64,0.0,79,0.0025192215107381344,0.03912980854511261,0.01077443826943636,8,640,0.3439129999896977
